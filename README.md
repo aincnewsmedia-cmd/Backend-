@@ -1,17 +1,4 @@
-<!doctype html>
-
-<html lang="en" class="scroll-smooth">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AINC Media — Latest News, Breaking Stories & Analysis</title>
-  <meta name="description" content="AINC Media: a clean, modern, accessible, responsive news website theme with breaking ticker, sections, dark mode, search, and article templates — in one HTML file." />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Merriweather:wght@300;400;700;900&display=swap" rel="stylesheet">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%23111'/><text x='50%' y='54%' font-size='34' text-anchor='middle' fill='%23fff' font-family='Arial' font-weight='700'>A</text></svg>">
-  <meta name="theme-color" content="#ffffff" id="themeMeta"/>
-  <style>
+<style>
     :root{
       --bg:#0b0c10; --surface:#111217; --muted:#1b1d24; --card:#151823; --text:#111317; --sub:#4b5563; --brand:#f43f5e; --brand-2:#0ea5e9; --ok:#10b981; --warn:#f59e0b; --danger:#ef4444; --ring:rgba(14,165,233,.35);
       --light-bg:#ffffff; --light-surface:#f8fafc; --light-muted:#eef2f7; --light-card:#ffffff; --light-text:#0f172a; --light-sub:#475569;
